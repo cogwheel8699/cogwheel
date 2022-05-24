@@ -25,4 +25,5 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WORDPRESS" width="30" height="30" />          
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cogwheel8699&&show_icons=true&theme=dracula&line_height=27&v=5" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cogwheel8699&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars&line_height=24)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogwheel8699&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
