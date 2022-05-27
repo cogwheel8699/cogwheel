@@ -1,8 +1,8 @@
 <h3 align="left">Hello, I'm Kit 👋</h3>
-<h4 align="left">An InfoSec professional turned Digital Nomad with a background in web development.</h4>
+<h4 align="left">A cyber security professional turned digital nomad with a background in web development.</h4>
 
 
-- ⌛ I’m currently **improving my Github portfolio**
+- ⌛ I’m currently **updating my Github portfolio**
 
 - 🌱 I’m learning how to use **Python and Django**
 
@@ -12,8 +12,8 @@
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="ANDROID" width="30" height="30" />
  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="BOOTSTRAP" width="30" height="30" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="HEROKU" width="30" height="30" />
