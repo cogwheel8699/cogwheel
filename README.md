@@ -1,13 +1,12 @@
 <h3 align="left">Hello, I'm Kit 👋</h3>
-<h4 align="left">A cyber security professional turned digital nomad with a background in web development.</h4>
+<h4 align="left">A cyber security professional with an interest in web development.</h4>
 
 
 - ⌛ I’m currently **updating my Github portfolio**
 
 - 🌱 I’m learning how to use **Python and Django**
 
-- 💬 I'm experienced with **BurpSuite, Kali, Nmap, Nessus**
-
+- 💬 I'm experienced with **HTML, CSS, Javascript, Java & Ruby**
 
 <h4 align="left">Languages and Tools:</h4>
 
